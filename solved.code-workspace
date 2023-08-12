@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Pymaceuticals"
+		},
+		{
+			"path": "../Starter_Code/Pymaceuticals/data"
+		}
+	],
+	"settings": {}
+}
